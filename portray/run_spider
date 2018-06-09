@@ -1,0 +1,5 @@
+#! /bin/bash
+
+# scrapy -h
+cd /opt/htdocs
+scrapy crawl run

@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+/node_modules
+/blua-client/unpackage
+npm-debug.log
+/bak

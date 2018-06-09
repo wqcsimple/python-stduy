@@ -1,0 +1,10 @@
+{
+  "redis_host": "redis",
+  "redis_port": 6379,
+  "redis_pass": "",
+
+  "mysql_host": "db",
+  "mysql_user": "root",
+  "mysql_password": "7",
+  "mysql_db": "jsh_crawl"
+}

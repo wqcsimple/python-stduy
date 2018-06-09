@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# cd /opt/htdocs && scrapy crawl comics
+#
+scrapy crawl comics
+
+sleep 10s
+
